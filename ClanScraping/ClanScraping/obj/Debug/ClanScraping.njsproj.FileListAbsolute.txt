@@ -1,0 +1,3 @@
+C:\Users\fogle\source\repos\ClanScraping\ClanScraping\obj\Debug\ClanScraping.njsproj.AssemblyReference.cache
+C:\Users\fogle\source\repos\ClanScraping\ClanScraping\obj\Debug\ClanScraping.njsproj.CoreCompileInputs.cache
+C:\Users\fogle\source\repos\ClanScraping\ClanScraping\bin\Microsoft.NodejsTools.WebRole.dll
